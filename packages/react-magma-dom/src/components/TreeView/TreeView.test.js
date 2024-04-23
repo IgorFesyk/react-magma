@@ -618,7 +618,7 @@ describe('TreeView', () => {
           {
             itemId: 'item-ggchild3',
             checkedStatus: IndeterminateCheckboxStatus.checked,
-          },          
+          },
           {
             itemId: 'item2',
             checkedStatus: IndeterminateCheckboxStatus.checked,
@@ -685,7 +685,7 @@ describe('TreeView', () => {
           {
             itemId: 'item-ggchild3',
             checkedStatus: IndeterminateCheckboxStatus.checked,
-          },          
+          },
           {
             itemId: 'item2',
             checkedStatus: IndeterminateCheckboxStatus.checked,
@@ -763,7 +763,7 @@ describe('TreeView', () => {
           {
             itemId: 'item-ggchild3',
             checkedStatus: IndeterminateCheckboxStatus.checked,
-          },          
+          },
           {
             itemId: 'item2',
             checkedStatus: IndeterminateCheckboxStatus.checked,

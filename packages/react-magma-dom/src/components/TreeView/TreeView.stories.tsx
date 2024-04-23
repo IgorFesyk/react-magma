@@ -883,7 +883,8 @@ export const UnitTest = args => {
                 label="Great-grandchild 1"
                 itemId="item-ggchild1"
                 testId="item-ggchild1"
-              /><TreeItem
+              />
+              <TreeItem
                 label="Great-grandchild 2"
                 itemId="item-ggchild2"
                 testId="item-ggchild2"
